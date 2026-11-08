@@ -9,7 +9,7 @@ Aplikasi kalkulator Android berbasis Java yang menerapkan SharedPreferences untu
 ## Identitas
 - Nama: Abdillah
 - NPM: 2459201097
-- Kelas: 2B
+- Kelas: 5B
 - Mata Kuliah: Pemrograman Mobile
 
 ## Teknologi
